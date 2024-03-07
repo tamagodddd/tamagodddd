@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load data
-all_df = pd.read_csv('https://raw.githubusercontent.com/tamagodddd/tamagodddd/blob/e214c727d491e047909f2f6cd6df5884a8f33a92/dashboard/all_data.csv')
+all_df = pd.read_csv('https://raw.githubusercontent.com/tamagodddd/tamagodddd/main/dashboard/all_data.csv')
 
 # Judul dashboard
 st.title('Proyek Analisis Data Bike Sharing')    
